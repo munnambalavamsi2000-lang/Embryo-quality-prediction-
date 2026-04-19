@@ -170,7 +170,7 @@ It should **NOT be used as a substitute for professional medical advice**.
 
 ## 👨‍💻 Author
 
-**Munna**
+**Munna Bala Vamsi**
 
 ---
 
